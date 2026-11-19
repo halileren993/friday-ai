@@ -1,0 +1,25 @@
+{
+  "id": "/",
+  "name": "F.R.I.D.A.Y. AI",
+  "short_name": "F.R.I.D.A.Y.",
+  "description": "Iron Man tarzı sesli yapay zeka asistanı",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030710",
+  "theme_color": "#050b14",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
